@@ -1,0 +1,1 @@
+This is Kahei's first git project!!! Woo! 
